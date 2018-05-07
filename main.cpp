@@ -1,7 +1,3 @@
-// Beczi Eliezer
-// beim1697
-// 511
-
 #include "bigint.h"
 
 using namespace std;
